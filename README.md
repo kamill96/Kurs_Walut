@@ -1,4 +1,4 @@
-Analiza I Predykcja Kursów Walut
+1. Analiza I Predykcja Kursów Walut
 Projekt integrujący dane z API NBP, skrypt Python oraz raportowanie w Power BI.
 
 # 1. Analiza Porównawcza
