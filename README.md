@@ -2,6 +2,10 @@ Currency Rate Analysis and Prediction
 
 A project integrating data from the National Bank of Poland API, Python script, and reporting in Power BI.
 
+## Prerequisites
+To open and interact with the analytical report, you need to have:
+**Microsoft Power BI Desktop** (available for free from the Microsoft Store).
+
 # 1. Comparative Analysis
 A central analytical panel comparing key trends for four major currencies in a selected time frame.
 <img width="1385" height="733" alt="Analiza porownawcza" src="https://github.com/user-attachments/assets/d36310d4-e0b0-4bb0-b7ff-e807acbafac6" />
